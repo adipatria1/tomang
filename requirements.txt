@@ -2,3 +2,4 @@ instagrapi
 python-dotenv
 pillow
 flask
+gunicorn
